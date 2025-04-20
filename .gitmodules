@@ -1,0 +1,4 @@
+[submodule "KNN-iris"]
+	path = KNN-iris
+	url = https://github.com/psychammer/data-mining.git
+	branch = main
