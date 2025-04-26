@@ -56,7 +56,6 @@ checkpoints/
 
 # Graphviz
 *.dot
-*.pdf
 *.ps
 *.svg
 
